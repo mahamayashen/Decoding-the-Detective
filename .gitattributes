@@ -1,0 +1,2 @@
+Phi-3-mini-4k-instruct-q4.gguf filter=lfs diff=lfs merge=lfs -text
+models/sherlock_topic_model filter=lfs diff=lfs merge=lfs -text
