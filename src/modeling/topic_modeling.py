@@ -43,7 +43,8 @@ fig = topic_model.visualize_topics()
 fig.update_layout(title_text="Topic Modeling Visualization", title_x=0.5)
 fig.write_image(os.path.join(OUTPUT_DIR, "topic_model_visualization.png"))
 # Save the model
-topic_model.save(os.path.join(OUTPUT_DIR, "bertopic_model"))
+# This file is very large, so be careful with it
+# topic_model.save(os.path.join(OUTPUT_DIR, "bertopic_model"))
 # Save the topics to a file
 topics_file = os.path.join(OUTPUT_DIR, "topics.json")
 with open(topics_file, 'w') as f:
