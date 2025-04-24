@@ -1,0 +1,808 @@
+Source URL: https://transcripts.foreverdreaming.org/./viewtopic.php?t=34164
+
+WATSON: Previously on Elementary If you have a moment, we'd like to discuss the matter of your niece, Mr.
+Reichenbach.
+Well, you can call me Odin, all my friends do.
+I haven't decided if we're going to be friends.
+You sent us on a wild goose chase, we'd like to know why.
+It was a test.
+You passed.
+Testing our skills is completely unnecessary.
+It wasn't your skills I was testing.
+It was the two of you.
+Our friend was shot and almost k*lled and you just admitted you were behind it.
+All I did was tell Patrick what I'd learned about Tim Bledsoe.
+We speak with murderers on a regular basis, Mr.
+Reichenbach, do you imagine any of them convinced us of their righteousness?
+Perhaps you should consider the possibility that I am not the kind of man you deal with on a regular basis.
+You remember Wade Allen Haines?
+School sh**t in Iowa.
+All over the news three years ago.
+You never should have known his name.
+No one should know.
+He k*lled 17 of his classmates.
+Now, afterwards, it came out that he'd been hinting about it for weeks.
+On videos posted on my platform.
+You feel guilty because your company didn't stop the attack?
+No, I-I feel guilty because I had no idea it was gonna happen.
+I watch the news every day, soaking it in and then finally I broke our Terms of Service.
+I dug into the boy's OdkerMail, his cloud files.
+All the signs had been there.
+On my servers.
+I decided then and there this is never gonna happen again.
+And I started looking for the next sh**t the same day.
+And your search engines, your e-mail servers, social media platforms, they all gather information from your users to sell to advertisers.
+Tweaking our code to identify people planning a crime wasn't hard at all.
+The next question became: what do you do with that information?
+Tim Bledsoe and the ferry; that wasn't the first time you acted?
+There are three girls living in Tempe who would have been drowned by their father.
+50 Kentucky schoolchildren who would have gone off a bridge with their suicidal bus driver.
+An Ohio church bake sale spared from a drive-by sh**ting.
+I have saved hundreds of lives.
+But you've turned people like Patrick Meers into murderers.
+You nudge them to take out potential K*llers.
+Why not just tell the authorities?
+HOLMES: Oh, he can't do that.
+Could never reveal that he violated his users' privacy.
+No, 'cause he'd lose his business, his fortune.
+Possibly his freedom.
+What on earth makes you think that we would ever consider joining your stable of executioners?
+Well, that's That's not what I'm proposing.
+Meers was a hammer.
+What I need now is a scalpel.
+You two understand the criminal mind.
+I need you to help me refine my system.
+Together, we could avert so many tragedies.
+I don't expect an answer right now, but sleep on it.
+Maybe you'll wake up thinking, "Might be nice to help prevent some murders for a change.
+" Thanks for coming so fast.
+Of course.
+Anything change while I was on my way over?
+Did Davis call, tell you where he is?
+I am telling you, Marcus, something is wrong.
+Hey.
+NYPD looks out for its own; we're gonna find him.
+Medical retirees included.
+(chuckles) When was the last time you saw him?
+Last night.
+I was going to bed, Davis stayed up late in the garage working on one of his projects.
+When I woke up, he was gone.
+Did you call his work?
+They said they haven't seen him.
+When I tried his cell, I heard a buzzing in his gym bag.
+It was his phone.
+He left it behind.
+Last time I talked to him, he seemed good.
+Has he had any setbacks?
+No.
+But you know how it is with PTSD.
+Some good days, some bad.
+The last couple weeks, uh, I don't know.
+I guess they were harder.
+Work had him stressed, he was having trouble sleeping Marcus, what if he decided he couldn't take it anymore?
+Are any of his g*ns missing?
+He doesn't have any, not anymore.
+He sold them all when he got his medical discharge.
+You said he was working in the garage last night.
+Would you show me?
+He sells this stuff, right?
+His new job doesn't pay much.
+And he still has to see so many doctors because of his injury.
+Some are in-network, but a lot of 'em aren't.
+The bills have really piled up.
+You said Davis sold all his g*ns?
+After he got shot, he couldn't stand the sight of 'em.
+Hasn't touched one since.
+I don't know about that, Carla.
+These are parts to a bolt-action r*fle.
+Looks like Davis changed the stock, mounted a scope.
+He was turning it into a sn*per r*fle.
+I don't see it here.
+Thing is, a sn*per r*fle isn't the kind of w*apon you use to commit su1c1de.
+It's the kind of thing you use to k*ll someone else.
+Elementary 7x06 Command: Delete WATSON: All right.
+So, we've got new phones.
+How's it going in here?
+Uh, I'm done.
+If Odin Reichenbach's methods weren't so extreme, I wouldn't have had to destroy all of our electronics which run Odker software.
+And the captain would not have almost died from multiple g*nsh*t wounds.
+Just so we're clear, we are not working with this guy, right?
+No.
+He may not k*ll for money, but he's still a k*ller.
+Good, I thought maybe you were buying into his little sales pitch.
+Ah, course not.
+I mean, in theory, it's ridiculous and in practice, I myself would be dead.
+I've seriously considered m*rder on at least two occasions.
+So, by Odin's standards, I should have been ex*cuted just in case.
+I can't believe he thinks the best way to prevent crime is to monitor what people say and look at on the Internet.
+I mean, no one's on their best behavior online.
+I mean, my mother has threatened people on restaurant review sites.
+So we're agreed he must be stopped lest his next victim be your mother?
+But how do you stop a man who has enmeshed himself in the World Wide Web like a funnel spider?
+I don't know.
+I think this is too big for the NYPD.
+I agree; they lack the resources and the jurisdiction to take on a global corporation like Odker.
+Which is another reason we mustn't tell Marcus or the Captain; they can't know.
+Not yet.
+If word gets out, Reichenbach will know within hours.
+I don't want him on the defensive; he could lash out, hurt someone else.
+Or destroy all trace of his operation.
+So who do we take this to?
+I mean, the FBI are not exactly our friends right now.
+The NSA is the only agency with the technical wherewithal to untangle this knot.
+Agent McNally.
+I'm going to go and see him alone.
+You should help Marcus.
+So he doesn't suspect anything's wrong.
+He needs help?
+Since when?
+Uh, since before I did this.
+He texted.
+He needs help with his own future crime.
+A former ESU sn*per is at large with a r*fle.
+I'm sorry, I don't know what Davis would be up to with that r*fle, but the guy I know is not a k*ller.
+So far, everyone here has said the same thing.
+Davis didn't have a beef with anyone.
+Definitely not anyone here.
+The way you said "here," did he have an issue with someone someplace else?
+It's probably nothing, but I heard him on the phone with someone last week.
+He was pissed.
+Said stuff like, "I cut that footage, I want my money, you don't want to mess with me.
+" I'm confused.
+Davis is a video technician; he doesn't cut footage, he just keeps your gear running, right?
+Right.
+He isn't an editor, but that doesn't mean he hasn't used our editing bays.
+We mostly do commercials here, but we all have our little passion projects.
+Documentaries, movie shorts, stuff like that.
+I know Davis put in a lot of time over the last few months.
+Do you know what he was working on?
+Whenever I asked him about it, he got all squirrely.
+I didn't push it.
+If he was editing something here, would he keep the files on his work computer?
+Probably.
+Video files are huge, and I never saw him lugging around a portable hard drive.
+So Only thing our computers are password-protected.
+My boss can bypass it, but he's on a plane right now.
+I won't be able to reach him until noon.
+By any chance, did he make everyone change their passwords at set intervals?
+Yeah, every 30 days; it's a pain, why?
+Changing passwords too often can actually compromise security.
+People can't remember them, so they write them down.
+You know what, you said these files would be huge, right?
+So If we reorder Davis's files according to size BELL: "Old receipts.
+" Three terabytes?
+That's a little big for paperwork.
+WATSON: Yeah, let's take a look.
+(smacking, woman moaning) Okay, so now I understand why he wanted to keep this a secret.
+MAN: Like that?
+WOMAN: Oh, yeah, oh.
+Right, that's everything I have on Odin Reichenbach and his extrajudicial killings.
+In longhand?
+Well, I thought about typing it out and e-mailing it, - but given the circumstances - Yeah.
+It's fine, I get it.
+Nice penmanship.
+He showed every indication of expanding his program, so he needs to be stopped.
+Given his area of operations is essentially the entire Internet, I thought the NSA would be best equipped to put an end to it.
+Then again, given the state of this office, perhaps the Agency's fallen on hard times.
+It's just OPSEC.
+We're changing cover offices in a few days.
+You know what bugs me about all this?
+I mean, he just came out and said it.
+I mean, he's got to be pretty damn sure you can't do anything about this.
+I don't think his confidence is entirely misplaced.
+It's unlikely the NYPD could touch him.
+I thought about giving this all to a reporter, but given the fealty the press has shown their new media conquerors, I worried that any report would be summarily crushed or spun or just dismissed as fake news.
+So you darkened my door.
+The man is using the Internet to select American citizens for execution.
+If you can find evidence of that, perhaps you'll see fit to bring in the FBI.
+All right, I'll run it up the flagpole, see if the bosses salute.
+Oh, and, Holmes if we do run with this you're gonna owe us.
+JULIANA: I don't understand.
+You think Davis Whitmark wants to k*ll me?
+BELL: We know he was angry with you and we know why.
+We searched his computer and found a bunch of hard-core bondage videos he worked on.
+The credits at the end said that he produced them for your online porn company.
+We also found a balance sheet that said that you stiffed him on his last batch of videos.
+You owe him 50 grand.
+Bad news for Davis was he couldn't exactly take you to court, because then these would come out.
+So, that is a scar from an old b*llet wound, from when he was an ESU cop.
+So he wasn't just producing the videos, he was also the leading man.
+(sighs) I did owe Davis 50 grand.
+Emphasis on "did.
+" I'm producing a new kink site, and I needed the money to secure my servers.
+So I kept delaying his payments.
+Eventually he got sick of it.
+He threatened you?
+Yeah, but not with a b*llet.
+He said if I didn't pay up, he'd put the word out to my other content providers, tell them I couldn't be trusted.
+So I cut a deal with him.
+What kind of deal?
+I offered him a share in my new site.
+He took it.
+He knew that, once we were up and running, he'd get annual payouts that'll be worth two, three times what I owed him.
+And he was satisfied with that?
+He couldn't sign the papers fast enough.
+He even left me a voice mail the other day thanking me.
+DAVIS (on phone): Juliana, hey, it's me.
+I got all the paperwork in the mail, and-and I just wanted to let you know how grateful I am for making me a part of this.
+We'll talk soon.
+Davis is smart.
+He knows he won't get a cent if I'm not alive to launch.
+So, whoever it is he's looking to k*ll, I guarantee you it isn't me.
+(door opens) (door shuts) Hey.
+Hey!
+- Anyone home?
+- Oh!
+Tell me you didn't wear that to your meeting with Agent McNally.
+I didn't, but that would have been good.
+You gonna tell me how it went?
+As well as can be expected.
+Which means he'll get back to us.
+In the meantime, I've turned my attention to Marcus's missing friend.
+Oh, you got the files I sent you.
+The collected cinematic works of Davis Whitmark, and the voice mail he left his would-be partner in porn.
+And?
+I saw no indication in any of the films that I've watched that he was at odds with a fellow performer, despite the many thrashings.
+Of much more interest to me was the voice mail.
+I think it may contain a clue as to Mr.
+Whitmark's current whereabouts.
+(sound of pigeons cooing, flapping wings) Are those pigeons?
+A densely packed mass of roosting pigeons, to be exact.
+When I noticed them in the background, I transferred the recording to tape so I could isolate and amplify what I was hearing.
+Judging by the amount of wind I had to filter, I believe that the pigeons were in a rooftop coop, and Mr.
+Whitmark was only a few feet away when he placed the call.
+So you think he was on the rooftop scouting for a sn*per nest.
+(tape stops) According to the cell phone data that Marcus procured, the call was made near a cell phone tower in the East Village.
+Happily, there is only one rooftop coop in that entire area.
+For the record, I've advised Mr.
+Whitmark not to talk.
+Unfortunately, he doesn't seem inclined to listen.
+How much does Carla know?
+She knows what happened today.
+We found you with a sn*per r*fle.
+You hadn't hurt anyone, surrendered peacefully.
+Everything else, you can tell her yourself.
+Those-those videos I made, those movies, they were just for the money.
+A guy at the place I work, he's been editing for Juliana for years.
+And when he told me what she paid for content, I just I love my wife.
+I believe you.
+I want to help, but first we got to talk about today.
+What were you doing up on that roof?
+(sighs) I got a call about a week back.
+Number blocked, voice disguised.
+Whoever it was, they'd seen my videos, they knew it was me under the mask.
+They said that if I didn't follow orders, Carla would find out everything.
+I thought they were gonna ask for money.
+Instead, they gave me the name of a hotel.
+The Warford.
+And a room number, 706.
+BELL: The Warford is across the street from where we found you.
+The person who called, they wanted you to k*ll someone who was staying there?
+No, see, that's the crazy part.
+They just wanted me to sh**t out the windows, scare whoever was in 706.
+Look, I know how that sounds.
+Do you?
+It sounds like a guy who doesn't want to cop to planning to k*ll someone, but I'm telling you, if that's what they wanted, I would've come to you.
+Yes, hello?
+Hello.
+I've got a question about one of your guests.
+I know I haven't been myself lately, but come on, I'm no k*ller.
+Who were you supposed to scare?
+They didn't say.
+They just said they wanted me up on that roof.
+They said there'd be a disposable phone waiting for me, and they'd call me when it was time to sh**t.
+I was still waiting for their signal when you showed.
+(knock on door) Do you have a minute?
+So, Sherlock called the hotel.
+The room Davis was supposed to sh**t at was rented by a private security firm: A. S. Safeguard.
+He's on with them now.
+Uh, Mr. Smith, could you just say that again, please?
+SMITH: I said that my team reserved that room last week.
+We were situating a client who recently had an attempt made on his life.
+HOLMES: And your men, they would keep the blinds drawn and keep the client away from the windows?
+They're ex-military.
+That's S. O. P.
+If the window were to be shattered by, um, a b*llet from a sn*per's r*fle, perhaps that would flush them out?
+Is that what was going on today across the street?
+The police find a sn*per?
+Your men noticed?
+(scoffs) They didn't like it.
+They called to say that they're moving the client to a safe house in the Bronx.
+So they left.
+I need you to call them right away.
+(vibrating) Yeah, these are my guys.
+Gabe and Josh.
+And the third victim is your client?
+Yeah, that's Baron Wright.
+He's a middleweight boxer.
+Was.
+BELL: We know.
+He was in the news a few months ago.
+There were rumors he was using steroids.
+The state commissioner was looking into him.
+Some of the guys he beat in the ring weren't too happy to hear that he might have been cheating.
+They made threats in the media.
+Is that why he hired you?
+Sort of.
+A couple weeks ago, Baron came home to find a guy in a ski mask in his house.
+He was messing with these, these pills that Baron was taking, trying to swap new ones in for old.
+Soon as he saw Baron, he-he dropped all the pills and ducked out a window.
+The guy was trying to poison Baron?
+Yeah.
+The thing is that the Yonkers Police Department-- they tested the pills, there was nothing toxic.
+It was just a sedative.
+All it would have done was put Baron to sleep.
+So, are these the pills the intruder was trying to replace?
+Yeah.
+Yeah, he had to take one of those twice a day.
+Do you know what for?
+Something to do with his pancreas.
+He was ill?
+He didn't look it, but, I mean, who knows?
+Maybe that was just the pills doing their job.
+Or maybe his pancreas was fine, and these are just the steroids everyone thought he was taking.
+No.
+The kid swore up and down that he was clean, and I believed him.
+Hey, you want a second opinion, check with the Yonkers PD.
+I'm sure they asked him a lot more questions about those pills than we did.
+Okay, so, just got off the phone with the detective who caught the burglary at Baron Wright's residence.
+He sent me these.
+This is one of Baron's pills.
+Apparently it's a treatment for something called exocrine pancreatic insufficiency, or E. P. I.
+You familiar?
+It's an enzyme deficiency.
+People who have it have a hard time digesting.
+Baron got diagnosed a little over a year ago.
+He told the police it was some cutting-edge treatment still in trial.
+His endocrinologist got him in.
+This, on the other hand, is one of the pills the intruder was trying to plant in Baron's vial.
+HOLMES: The sedative.
+Well, obviously, they look exactly the same.
+That might be a good thing Baron said these were in trial, right?
+So most people have no idea what they look like.
+But the person who made this one obviously did.
+You think it was somebody involved in the trial?
+WATSON: Could be.
+Or it could be someone from his endocrinologist's office.
+Miss Watson, Mr. Holmes, I'm Tessa.
+Dr. Burgess is with a patient, but he shouldn't be long.
+What's that buzzing?
+Buzzing?
+- I don't hear anything.
+- Well, you're not pregnant.
+Your hearing is heightened when you're pregnant.
+- Are you pregnant?
+- You really don't hear that?
+Uh, hey, you can't go in there.
+Excuse me, sir, sir.
+Sir (buzzing) - Dr. Burgess, I presume.
+- What the?
+You shouldn't be in here.
+You shouldn't be destroying your files on Baron Wright.
+That is what you're attempting, isn't it?
+Don't just stand there, Tessa, call security.
+I see you cut your hand recently; that's interesting.
+Someone broke into Baron's house two weeks ago and cut their hand on a broken pane of glass when they were climbing out the window.
+HOLMES: We'll leave, Dr.
+Burgess.
+You can expect a visit from our colleagues shortly.
+You can also expect a court order for your DNA.
+Did you come here because you think I broke into his house or because you think I shot him?
+Perhaps you did both.
+I didn't.
+If you'll let me, I can prove it.
+First of all, I'm sorry.
+I've been on edge ever since I heard what happened to Baron.
+When Tessa told me there were police consultants here to see me Can you prove you didn't k*ll him?
+I wasn't shredding his file.
+I was shredding this.
+It's a paper I was writing about him.
+When he first came to see me, it was for treatment for a condition known as exocrine pancreatic insufficiency.
+E. P. I.
+We're aware.
+I couldn't help being struck by his muscle mass and definition.
+Uh, most people with E. P. I.
+don't look like that.
+Most people in comic books don't look like that.
+I started thinking his symptoms and his physique were both due to an undiagnosed mutation, uh, something similar to a condition called Dunnigan-type lipodystrophy.
+That's a mutation that inhibits the body's ability to produce fat.
+It can damage the liver, but some athletes seem to benefit from it.
+It makes them leaner, stronger.
+Baron's condition was even more unique.
+There were more beneficial effects, fewer harmful ones.
+I was trying to understand its mechanism.
+I wanted to synthesize it HOLMES: You mean monetize it.
+A pill that reduces body fat but increases muscle growth would be worth millions.
+Possibly billions.
+I didn't tell Baron.
+I-I didn't even identify him in my paper, just called him Patient X.
+Unfortunately, my research required a constant supply of blood and tissue samples.
+I lied to Baron.
+Told him I needed them to monitor his condition, but eventually he got tired of me sticking him.
+He stopped coming in.
+Your golden goose flew the coop.
+I tried to make do with what I had, but eventually I used up my stockpile.
+I needed more samples.
+So you made up some pills that looked like the ones he was taking and then you broke into his house.
+You were gonna sedate him and then take what you needed while he was unconscious.
+He caught me in the act.
+(laughs softly) I ran.
+That was the last time I saw him.
+But it's like you said.
+He was my golden goose.
+I never would have k*lled him.
+Perhaps you identified a family member with the same mutation.
+You worried that Baron would realize you were the one trying to poison him, and so you k*lled him.
+No.
+There are no family members.
+I'm pretty sure I saw in the news that he's survived by his mother.
+He was.
+His adoptive mother.
+Baron's parents were undocumented immigrants.
+They died in a car crash when he was an infant.
+Tessa's great with research, so I asked her to look for more family.
+(laughs softly) I lied to her, told her it was about "refining Baron's treatment.
+" She couldn't find a single relative.
+Baron was the end of the line.
+Look, I'm not the only doctor he ever saw.
+He dealt with digestive problems his whole life.
+Maybe someone else treated him, figured out the same thing I did.
+Uh, maybe they were able to synthesize the mutation.
+If they did, Baron would've been expendable.
+More than that.
+He would have been a liability.
+He could have sued them if he realized what they had done.
+(crunches) I see you've made yourself at home.
+You know, I don't know what this is, the spread in the jar marked "protein.
+" It's good.
+It's crunchy.
+Usually, when someone calls and asks to meet me at my home, they wait outside.
+It's bugs, isn't it?
+You don't want me lingering right in front of your front door.
+Lot of the traffic cameras and dash cams run on Odker software.
+Neither of us wants Odin Reichenbach finding out this meeting is happening.
+Your superiors found the material I gave you interesting?
+Well, they found it informative, thought-provoking.
+They didn't find it actionable.
+We need a smoking g*n or, ideally, a confession.
+I mean, if you'd been able to record everything, then we'd have something.
+Had I known that Watson and I were going to meet with the architect of multiple murders, I would have made the appropriate arrangements.
+Set another meeting.
+I mean, he's expecting a response, right?
+Draw him out.
+Get him to talk about all the people he's k*lled in the name of the greater good.
+There's zero chance I'll be able to record our next meeting.
+He'll be on guard.
+They will check me for a wire, confiscate my phone.
+So?
+I mean, there's a reason you contacted the NSA.
+We'll take care of the recording.
+You want to tell me how the NSA's gonna do that?
+Well, a minute ago, you wouldn't even tell me if I was eating crickets, so, no.
+There are some things that need to remain secret, but, rest assured, we'll get him on tape if you can get him talking.
+Can you do that?
+I still can't believe my boy is gone.
+We're very sorry for your loss.
+When those other fighters started threatening him, I was afraid.
+But I never thought it would go this far.
+Actually, Mrs. Wright, the two boxers who made threats against your son provided alibis and took polygraphs.
+Both passed.
+WATSON: We think Baron's death has more to do with his medical condition.
+That's why we asked you to bring his old medical records when we called.
+Is that them?
+Well, I'll tell you right now, there's less here than should be.
+I think some of 'em might've gone missing during the break-in.
+Ugh, they made a mess.
+Somebody broke into your house?
+Yesterday.
+I'm guessing it was kids.
+Real thieves would have figured out where I hide the jewelry, or at least managed to take a TV off the wall.
+But they did take some of Baron's medical records.
+A few photo albums and scrapbooks are missing, too.
+I-I called the police, they said they'd look into it, but you know.
+Nothing worth any money was taken.
+Can I ask what was in the scrapbooks?
+Pictures of Baron, mostly.
+From when he was a boy.
+Why?
+No, I appreciate it.
+Any new developments, just give us a call.
+All right.
+So, do the Newark police have any idea who broke into Mrs.
+Wright's house?
+None.
+It's got to be the same person who k*lled Baron, right?
+Maybe Dr.
+Burgess was right.
+The k*ller is one of Baron's old doctors.
+He stole Baron's medical records so there'd be no link back to him.
+Well, say that's true.
+Why would he also want a bunch of Baron's childhood photos?
+Not a clue.
+Hey, you got time for an update on the Baron Wright case?
+Pat on the back.
+Pat on the back?
+Sounds like you got a break.
+You're looking for approval, so pat on the back.
+Well, it turns out, Mrs. Wright had copies of the pictures that were in the albums that got stolen.
+She had them scanned and uploaded to her computer a few years ago.
+I went through 'em and found these.
+Guy on the right is Baron Wright's biological father.
+We think the others are Baron's uncles.
+Mrs. Wright got these when she adopted him, along with some of his late parents' other belongings.
+Strong-looking guys.
+Just like Baron.
+We think that's the reason the originals were stolen.
+Explain that?
+Say the person who broke into Mrs. Wright's house is the guy who k*lled Baron.
+He stole a bunch of Baron's medical records.
+That fits with the idea that one of his other doctors found a way to make money off the mutation he had.
+The one that burns fat and builds muscle.
+If that's a mutation you can buy, I'll take a double.
+Assuming you're right, and some doctor did the burglary, he stole these so he could track down new test subjects, right?
+Actually, we think he did it so no one else could track down more test subjects.
+If we're right, he already got what he wanted from Baron's blood and tissue.
+He doesn't need more.
+Long as no one else can track down another member of Baron's family, he's in the clear.
+He'll get his product on the market first.
+Don't tell me we have to wait for that to happen before we can arrest somebody.
+Joan has a lot of friends in the medical community.
+She's reaching out, seeing if anyone can point us in a direction.
+We get any hits, we'll let you know.
+I don't know where you got this coffee from, but it is amazing.
+Oh.
+I didn't realize you had company.
+Watson, this is my friend Cassina.
+She brought us the coffee.
+- Nice to meet you.
+- You, too.
+Coffee is Cassina's business, you see.
+She travels the world, identifying, importing, and then reselling only the finest, most exotic beans.
+The ones that you're drinking are Vietnamese.
+The coffee berries are fed to weasels, who then regurgitate the beans, and the acid in their stomachs removes the bean's more bitter properties, allowing that unique, chocolaty flavor to emerge.
+You know what?
+This stuff is so good, I don't care how much weasel puke is in it.
+Hmm.
+Are you and Marcus any closer to identifying any medical expert who could profit from Baron Wright's mutation?
+No.
+Why?
+I think I might have identified another, far simpler way that someone could have profited from his death.
+Sherlock called me because he could tell these were coffee groves.
+He wanted me to take a look and see if I could identify the foliage and location, which I did.
+These trees are on the slopes of Volcan Acatenango in Guatemala.
+HOLMES: They're an ultra-rare variety called Ethiopian Gesha.
+CASSINA: Gesha trees produce incredible beans.
+Floral, rich.
+But they're hard to grow, and they only thrive in certain microclimates.
+Now, back when these pictures were taken, the trees had just been planted.
+Now they're at full yield.
+If they were ever harvested, their beans would be worth over $500 a pound.
+A pound?
+The grove you're looking at would, in theory, make millions every year.
+I don't understand.
+If the beans are so valuable, then why aren't they being harvested?
+HOLMES: Sad story.
+After Cassina confirmed the grove's location, I discovered the land was once owned by a family by the name of Bautista.
+In 2016, right before they were gonna bring their beans to market, an earthquake destroyed their home, k*lled the whole family.
+Their estate went into probate, and no one has come forward to claim it since.
+So you think if Baron had figured this out, he would have claimed it.
+If that's the case, he might not have been k*lled by a doctor but by a fellow heir who didn't want to share the family fortune.
+The Guatemalan consulate has agreed to help us round up any wayward Bautistas.
+They're gonna send someone to the precinct shortly.
+Um, unfortunately, you're gonna have to go without me.
+Why?
+Well, our new friend, with the bow and arrow, he's agreed to another meeting.
+(seabirds chirping) Mr. Reichenbach.
+I trust your security detail told you I passed my colonoscopy.
+(chuckles) Clark is thorough, isn't he?
+I'm sure you understand the need for discretion.
+It's ironic, isn't it, that you insist on the very thing that you seek to deny your customers: privacy.
+You don't sound like a man who's about to say yes to my offer.
+You referenced some of your "successes" the other day.
+Tragedies averted because of your intervention.
+The details you gave me were more than enough to identify some of those would-be culprits.
+How did I do?
+You had two notable successes.
+The girls in Tempe and the churchgoers in Ohio.
+Their lives were probably worth the deaths of two would-be K*llers, yes.
+But the school bus driver in Kentucky?
+To borrow a term from your tech company, there were bugs.
+Maybe you were looking at the wrong piece of code.
+You said you had a woman k*lled because she threatened to drive her bus off a bridge.
+I assume that was Ruthie Deller?
+Her execution was disguised to look like a home invasion gone wrong.
+Rabid dogs aren't "ex*cuted," they're put down.
+Most of Ruthie's online footprint had been scrubbed, but I've got some friends who are very good at unscrubbing.
+They found her blog, where she fantasized about k*lling herself and all of her young passengers.
+Exactly.
+She had to go.
+Did she?
+Over the last four years, Ruthie repeated the same escalating cycle of rage and suicidal depression online, always as her birthday approached.
+And then, when her birthday passed, her mood always improved, always.
+But you still had her k*lled a day before her 53rd birthday.
+All those children.
+Her life wasn't worth the risk.
+Risk implies odds.
+Odds imply a lack of certainty.
+You started as an engineer.
+So assign a number to your conviction that Ruthie would have k*lled.
+Give me a percentage.
+Call it 80%.
+Well, there's your bug.
+At those odds, a fifth of the people that you've had k*lled could have been innocent.
+This your way of saying you're not interested in helping?
+On the contrary.
+Watson and I are very interested.
+But it would have to be on our terms.
+We would vet every single case to 100% certainty before you did the irrevocable.
+What if your target acts while you're still vetting?
+That could happen, yes.
+But your default position cannot be "k*ll away.
+" All right, fine.
+How about this?
+Next time I get another 80/20 call, I'll send it your way.
+It'll be your decision.
+Call it a trust-building exercise.
+How's that sound?
+Like a step in the right direction.
+We appreciate you making the time to come see us, Ms. Duarte.
+I'm sure you're busy at the consulate.
+Uh, I brought you everything I could find on the Bautista estate.
+Mr. Holmes said he believed the man whose m*rder you've been investigating was an heir?
+We think the person responsible may have been another heir.
+Well, if that's the case, I'm afraid I won't be much help to you.
+The Guatemalan government has been looking for heirs to the estate for years.
+We haven't had any luck.
+This man?
+The one Mr. Holmes said was Baron Wright's father?
+I can confirm he was a Bautista.
+Lorenzo.
+Uh, he grew estranged from his family in the late '90s and moved away.
+He must have come here, met his wife, had Baron, and then died in that car crash.
+Uh, we would require Baron's DNA to confirm it, but, yes, I imagine you're right.
+It's sad, but I think we almost found him last year.
+What do you mean?
+You'll see in the file.
+13 months ago, a medical researcher from New York contacted our probate office for information on the Bautistas.
+She had a patient with a rare disorder and said she'd found an article in an old medical journal from our country.
+It suggested that members of the Bautista family had the same condition.
+Unfortunately, the researcher said she couldn't share the patient's name.
+HIPAA laws.
+But it had to be Baron, don't you think?
+I-I don't suppose your people explained that he might be an heir to an estate worth millions.
+Of course.
+But she said she would speak with him.
+But he must not have believed he was a Bautista.
+Why else would he not have contacted us?
+I'm pretty sure I know where to find the other heir to the Bautista estate.
+Say the word, and I'll send a car for him right now.
+You can't arrest him, assuming it is a him.
+If I'm right, he or she hasn't been born yet.
+You remember my colleague Ms.
+Watson?
+You said on the phone you had more questions about Dr.
+Burgess, but I don't know what else I can tell you.
+He was at the office when Baron Wright was k*lled.
+But you weren't.
+No.
+I had terrible morning sickness.
+I was out all day.
+Why?
+Let's cut the crap.
+We're not here to talk about Dr.
+Burgess.
+We're here to give you a chance to confess to the m*rder of Baron Wright.
+The sooner you do that, the better it's gonna be for you and your baby.
+You think I k*lled Baron?
+Seriously?
+It's the 21st century.
+Pregnant women can do all sorts of things.
+WATSON: Including go to the g*n range.
+We spoke to the manager at the one closest to your house.
+He says that you've been there a lot lately, practicing with an AR-15 like this one.
+Before you started working for Dr.
+Burgess, you were in the Army for six years, right?
+So?
+So we're guessing that's where you got to be so proficient with firearms.
+It's probably also where you learned about sn*per nests, like the one you scouted for my friend Davis Whitmark.
+WATSON: We know that Dr.
+Burgess was his endocrinologist, too.
+He needed regular follow-ups after losing his adrenal gland in the line of duty a few years ago.
+Not sure exactly when you saw one of his bondage videos, but you did, and you recognized his scar.
+WATSON: You realized that Baron was an heir to the Bautista estate a little over a year ago.
+Now, his trainer said that's around the time you started dating.
+We went on like two dates.
+I think it was more than that.
+Either way, you made the most of them.
+Dr.
+Burgess will testify that he prescribed you hormone pills to help you get pregnant.
+You told him you were using a sperm donor.
+Which, in a way, you were, because that's all Baron ever was to you.
+Once you reached your third trimester, you could be all but assured your pregnancy would go the distance.
+You had the baby you needed to claim the Bautista estate.
+What you didn't need was the father.
+So you decided to k*ll him.
+Unlucky for you, Dr.
+Burgess broke into Baron's house around the same time.
+Baron got scared and went into hiding.
+We're guessing he told you what was going on because he didn't want you to worry.
+WATSON: But you did.
+Not about him, but about your plan.
+You needed him dead, and now he was holed up with a security team at the Warford Hotel.
+BELL: So you blackmailed Davis.
+Got him up on that roof across the way to sh**t at Baron's window.
+We arrested him before that could happen, but the commotion was enough to get him and his guards on the move.
+You followed them and then you gunned them all down.
+WATSON: All that was left was to go to his mother's house and find anything you could steal that could help prove to the Guatemalan government that he was a Bautista.
+I don't feel good.
+I think I need to go to the hospital.
+But first I would like to point out that everything you've just said is circumstantial.
+My baby?
+He isn't even Baron's.
+This is a court order for a paternity test.
+Pretty sure it's gonna say the opposite.
+If it does, that'll be circumstantial, too.
+But I think it's gonna go a hell of a long way with a jury.
+ODIN (over recording): Next time I get another 80/20 call, I'll send it your way.
+It'll be your decision.
+Call it a trust-building exercise.
+We got everything.
+And we're gonna start a case.
+You need to be patient.
+Investigations of this size and of someone of this stature, they take time.
+There's nothing more for you to do.
+Well, in that case, I have one question.
+Did you become a member of Reichenbach's cabal before I came to see you, or after?
+What do you mean?
+The recording.
+It couldn't be any clearer.
+It was windy that day on the pier.
+I don't care what kind of covert listening device the NSA alleges to have.
+The only way you could make a recording that clear is with a wire, and I certainly wasn't wearing one.
+I think you've been eating too much bug paste.
+Is the entire NSA in Odin's pocket, or is it just you?
+Come to that, has it?
+It was always a matter of time, wasn't it?
+Agreeing to help you investigate our mutual friend was his idea.
+He thought it'd slow you down, give him more time to polish a new recruitment pitch.
+I'd be flattered if I was you.
+Yeah, well, you're not me, are you?
+I know that, because I'm not a murderous traitor.
+Traitor?
+Well, what's a little m*rder if you can stop the next 9/11?
+You do see why that would be of interest to me, don't you?
+Well, if you are gonna sh**t me, I'd just ask that you get on with it.
+This isn't for you.
+This is.
+This is everything I've put together on you over the past couple of years.
+Open it up.
+You'll see a lot of familiar names.
+Captain Thomas Gregson, his daughter Hannah, his wife Paige.
+Detective Marcus Bell, his girlfriend Chantal.
+Kitty Winter, her son Archie.
+Let's see, there's someone I'm forgetting, isn't there?
+Is there?
+Yeah.
+Dr. Joan Watson.
+It'd be a shame if something happened to her.
+Maybe a botched home invasion like the one that k*lled that bus driver?
+Maybe something messier.
+Our friend doesn't want to hurt any of you, but I think it's important you realize he could hurt all of you.
+Don't get in his way.
+You'll live longer.
+More importantly, so will all of your friends.
+(door opens) WATSON: Hey.
+How'd it go with McNally?
+I think you're making a mistake.
+I know this guy better than you do.
+In all the ways that matter, Agent McNally, I think I know him better.
+He's not gonna let this go.
+I told you, I don't want him to let it go, him or his partner.
+I want them to join us.
+Right now I'm managing a lawsuit from five of my competitors over hardware patents, I'm battling the Chinese government's illegitimate restrictions on our Asian market search engines, and I'm fighting two branches of the U. S. military about jurisdiction over land on Mars.
+I can handle Sherlock Holmes.
+What is it?
+The NSA has opened a case.
+We're going to have to be patient.
+An investigation of this size against someone of this stature takes time.
+So there's nothing more for us to do.

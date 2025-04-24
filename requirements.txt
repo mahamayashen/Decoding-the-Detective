@@ -1,0 +1,11 @@
+# requirements.txt
+spacy>=3.6.0
+langchain>=0.1.0
+langchain-text-splitters>=0.0.1
+tqdm>=4.66.1
+pandas>=2.0.0
+sentence-transformers>=2.2.2
+faiss-cpu>=1.7.4
+bertopic>=0.17.0
+tf-keras>=2.19.0
+kaleido>=0.2.1

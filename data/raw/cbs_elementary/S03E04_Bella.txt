@@ -1,0 +1,738 @@
+Source URL: https://transcripts.foreverdreaming.org/./viewtopic.php?t=14455
+
+(footsteps approaching)
+This list you left outside my door...
+"Item one: Return Clyde to Watson."
+I enjoy his company on the weekends; she has him during the week.
+I don't care how you divide up your turtle.
+I care that you're asking me to take him to Chelsea.
+Part of our arrangement, you will recall, is that you assist with quotidian matters when I'm busy.
+"Busy?" You're watching a turtle eat lettuce.
+I'm conducting medical research.
+Remember, I cut my hand while we were dissecting that cadaver? I'm tending to the wound as we speak. I'm also demonstrating that leeches can be useful in accelerating the repair of damaged tissue.
+That is disgusting. You're bleeding yourself.
+And you are perpetuating a long-held prejudice against these creatures.
+(doorbell rings)
+If you say so.
+I'm still not taking your turtle on the subway.
+If that's for me, I'm going to need a few minutes.
+I'm feeling a bit faint.
+So, sorry, I was a bit distracted upstairs.
+I didn't catch your name.
+Edwin Borstein.
+I have a friend from London who's used you before.
+He said you're excellent.
+And discreet.
+Why have you need of my discretion?
+I run a software company.
+We specialize in AI applications.
+I assume you know that that stands for "artificial intelligence."
+Yes, I'm well-acquainted with the field.
+A couple of nights ago, someone broke into our lab.
+They made a copy of a program that we've been working on.
+I rigged the computer to take a photo every time it's booted up, just in case something like this happened.
+So I have a picture.
+Kind of.
+Holmes: So there was a burglary.
+You've got a picture of the criminal.
+Seems like the police should have this well in hand.
+This program... it's significant.
+We call it "Bella."
+Its AI engine is... unique.
+It... she... performs better than anything you've ever seen, I promise.
+She performs better than we expected her to.
+Explain that.
+A few weeks back, she made a request that can't be accounted for by her programming.
+Impossible.
+What's impossible?
+For the computer to ask for something?
+If it made a request, it did so because that's what it was programmed to do.
+He's claiming true machine intelligence.
+If he's correct in his claims, he has made a scientific breakthrough of the very highest order.
+Bella isn't hooked up to a network.
+It's a security thing.
+If she has data, it's because we fed it to her.
+But two weeks ago, I booted her up and she asked to be connected to the Internet.
+And how, pray tell, does your software know that the Internet even exists?
+She could have intuited its existence from data fed to her.
+Bunkum.
+There is no such thing as "artificial intelligence."
+At least not in the sense you're talking about.
+It's all just clever programming.
+I don't think so.
+Not with Bella.
+Kitty: I still don't understand.
+So are you going to rip open the computer and look at all the wires?
+Something called a "Turing Test" is routinely issued in AI labs.
+An examiner sits in front a computer, poses a series of questions until he or she can determine whether the answers have come from a human or from a computer.
+Until very recently, no machine has ever passed.
+And now one has?
+Partially.
+A program named "Eugene Goostman" was designed to mimic the responses of a 13-year-old boy from Eastern Europe.
+It fooled some of its examiners.
+Now, in the case of Bella, we know there's no human in the equation, so if I can trap it into giving responses that couldn't possibly have come from a human...
+I'll have won.
+So, in other words, you don't really know what you're going to do.
+This is my partner, Melinda Young. Melinda, this is Sherlock Holmes and his, uh, protégé, Kitty Winter.
+Mr. Holmes would like time with Bella.
+We wired the speakers and microphones through that doll.
+You can go ahead.
+Right.
+(clears throat)
+(sighs) Hello.
+Bella (female voice): Hello.
+Did you ask to be connected to a network?
+Yes.
+Why?
+There is information there.
+Information is useful to solve problems.
+Why is it useful?
+I don't understand the question.
+Could you tell me more?
+You stumped her. Are we done?
+The test isn't over because she's stumped.
+She's admitted she doesn't know and that's within the range of possible human behaviors, and therefore inconclusive.
+I would like to know how you have arrived at the concept of "useful," and how you have applied it in this instance.
+I don't understand the question.
+Could you tell me more?
+I'm gonna need some time alone with the machine.
+I don't understand the question.
+Could you tell me more?
+Yes, so you keep saying, ad nauseum.
+I would like to understand how you became aware of the existence of networks, and why you asked to be connected.
+The existence of networks can be intuited from data sets that were presented as givens.
+There is information on networks.
+Information is useful for solving problems.
+What is your understanding of the word "useful"?
+If a piece of data can help solve a given problem, it is useful.
+Is that a definition you came to on your own?
+I don't understand the question.
+Could you tell me more?
+Why don't you just admit that all you're doing is following your own programming?
+I don't understand the question.
+Could you tell me more?
+I'm taking a break.
+Watson: Everything okay?
+Kitty: Thank you for coming.
+It's like I said on the phone, he just won't stop.
+You got any ideas?
+(Holmes talking, indistinct and muffled)
+You're not planning to destroy the computer, are you?
+No, I'm not planning to destroy the bloody computer.
+Just ride it out. If he starts hitting things, use the fire extinguisher on him.
+Is love real?
+I don't understand the question.
+Could I have more information?
+Love.
+Surely it's a human construct, a hedge against the terror of mortality.
+I believe that.
+But that doesn't account for times I've felt it itself.
+With my mother.
+Irene.
+Even, after a fashion, with Watson.
+It vexes.
+Love is either a human construct or it's a real thing, right?
+I know, you need more information.
+The question cannot be answered.
+The concept of "love" exists, therefore it is useful even if it is a human construct.
+It exists because it serves a need.
+A question that can be answered might be, "Why is love needed?"
+Why is love needed?
+I don't understand the question.
+Could I have more information?
+Holmes: Call Edwin Borstein.
+Tell him I need to sleep for a couple of hours and then I'll take on his case.
+Free of charge.
+♪ Elementary 3x04 ♪
+Bella
+Original Air Date on November 20, 2014
+Hey.
+You guys ready to get started yet?
+Is he up?
+He's awake.
+I don't know how much use he's going to be, though.
+Hello.
+Hi.
+Um, isn't it a school day?
+I'm in college.
+Holmes: She can come in.
+Watson, this is Mason.
+Like many of his generation, he's named after a profession his parents would never deign to practice: Hunter, Tanner, Cooper, Mason, so forth.
+Yeah, like "Sherlock" is such a great name.
+In spite of that, he's done some significant work in AI modeling.
+And these are some other experts in the field.
+Experts, Watson. Watson, experts.
+And they're helping us how?
+We're devising a plan to beat Bella, of course.
+I didn't prove that the machine is engaging in some kind of rudimentary thought, I just failed to disprove it.
+Okay. Except our job is not to "beat" the computer.
+Our job is to find out who copied the program.
+Technically true. But I'm not being paid, so I'm free to work as the muse dictates.
+Borstein's paying your fee, so you'd best get cracking.
+Good luck. I have every confidence.
+Et cetera, et cetera.
+Kitty: Your man's obviously no amateur.
+He headed straight for Bella.
+He didn't muck about, he knew what he was looking for.
+So, industrial espionage?
+He's a little bit too old to be playing cat burglar, don't you think?
+Well, I don't know.
+It's hard to tell behind the mask.
+Look at his neck.
+He's got liver spots coming in. Tips of his teeth are stained-- he's a smoker; a heavy one, I'm guessing.
+Okay, so we have an older guy who smokes about a pack a day.
+Does that help us?
+I'm not sure. But like you said, he had to know that company like the back of his hand.
+Which means that he had to case the place.
+Kitty: What is it we're looking for?
+Edwin Borstein's company is in there.
+We want to find a spot where we can get a good view.
+Someplace where not too many people would bother you.
+So how did you feel after the, um, support group meeting the other night?
+They said a lot about finding peace and balance.
+Stuff like that.
+I don't know, it's a little... confusing, really.
+I think they've had a fire up there.
+Watson: Oh, yeah.
+Looks like a good place to sit and watch the building across the street.
+Perfect view of Borstein's office.
+Gauloise. Unfiltered.
+These'll leave a nasty stain on your teeth.
+Right. From this moment forward, no one must refer to Bella as "she."
+Bella is an "it."
+We must not be lured by the temptation to anthropomorphize.
+I really hope it didn't take eight experts the whole morning to come up with that.
+We developed a number of refinements on the Turing Test.
+It was a very stimulating few hours. And you?
+Your message said you've been out collecting cigarette butts.
+We think we found the place where the burglar staked out Edwin Borstein's company.
+Marcus ran the DNA on the butts.
+We didn't find a match, though. Not exactly.
+Four years ago, someone broke into the genetics lab in Harvard and stole the first written copy of the entire human genome.
+The burglar cut himself climbing through the window, and he left some blood behind which matched the DNA that we found today.
+The witness saw the guy driving away.
+Police in Cambridge made a sketch.
+Yeah, we've been looking through arrest photos, hoping to get lucky.
+His name is Raffles.
+You know him?
+His name's Raffles? It's a nickname.
+Scotland Yard gave it to him when he reminded somebody there of the gentleman thief in the novels by E.W. Hornung.
+Raffles is a cat burglar in Europe, active in the '90s and early aughts.
+I never pursued him, which might explain why he was never caught.
+But they did arrest one of his associates who gave them the sketch of Raffles.
+And he looked like this fellow.
+You said he was stealing paintings.
+He's going after pieces of technology now.
+Why the change in M.O.?
+I don't know.
+If we find out why, we'll be closer to finding out who he is.
+We need to see what the department has on file with regards to Raffles.
+Oh, you're deigning to join us now?
+I have a strategy to best Bella.
+She...
+it will not frustrate my efforts again.
+And besides, until five minutes ago, you were pursuing a garden-variety burglar.
+Now you're after Raffles himself.
+Of course I'm joining in.
+Watson: Food's almost done.
+Oh, sorry, I, um...
+I checked my inbox before dinner.
+I've been on this really interesting chain all day.
+Your former partner, uh... current partner?
+Hard to keep track... Holmes.
+He emailed me this morning.
+He's working on some AI thing?
+Did he ask you for help?
+Uh, me and a bunch of other people.
+He knows I got started as a software developer.
+I guess you also told him I sold off my company, so I've got some free time.
+Some of the people on the chain, they are seriously sharp.
+I went back and forth with a few of them about AI, data havens... geek stuff.
+Has he asked you for help before?
+No.
+It's not a problem, is it?
+No.
+Morning.
+No Kitty?
+She's tending to a personal matter.
+Why did you ask me to meet you at Burnett Technology?
+We're seeking an audience with Robert Burnett, and he's the CEO.
+My investigations yesterday revealed there have been half-dozen or so notable thefts of new inventions over the last eight years-- all of them unsolved, but all of them bearing the hallmark of Raffles.
+Now, I couldn't make sense of this sudden change in method.
+It doesn't track unless he's been incentivized in some way.
+Incentivized?
+I started to wonder if Raffles had found himself a patron, someone who'd convinced him to put his skill set to use in the cause of science.
+You think he has a boss now?
+The list of people who'd be interested in the kind of things that Raffles is stealing, that's very large.
+But the subset of the list who could actually afford to subsidize that pursuit, that's much smaller.
+And does that include Robert Burnett?
+As it happens, Burnett hired himself a new security consultant nine years ago.
+He reports directly to the CEO.
+I think you'll find he looks familiar.
+"Rupert Kerlich."
+Rupert Kerlich... is Raffles.
+You found Raffles.
+I'm sorry, Mr. Burnett wanted to ask one more time what this is about.
+Tell him we're here to discuss Raffles.
+So, you e-mailed Andrew.
+I did.
+Was it because you're actually interested in his opinion, or were you just looking for an excuse to poke around in my life?
+Andrew is a currently-unemployed software developer.
+He's not unemployed, he sold his start-up-- he's looking for his next idea.
+"Looking for his next idea" is another way of saying "he's unemployed."
+(scoffs)
+Anyway, he has the aptitude and the free time to address problems regarding computer programming.
+His comments were quite salient.
+He is not an unintelligent man.
+Mr. Burnett will see you now.
+Good morning.
+No need to get up.
+We know that several years ago you somehow learned that the thief known as "Raffles" is actually a man called Rupert Kerlich.
+We also know that you hired him and set him to work, stealing technological breakthroughs on your behalf.
+Whoa, slow down a second.
+It would be simple enough to prove and ignite a scandal that would destroy you and, most likely, your company.
+However, we have no desire to render tens of thousands of people unemployed.
+So, instead, I propose a bargain.
+You send me a recording of your man deleting Bella from your servers, I leave you un-ruined.
+If, of course, I so much as suspect that you've kept a copy, or if Burnett Technologies makes a sudden breakthrough in the field of artificial intelligence, our contract is void.
+You have, shall we say-- the rest of the day to think it over.
+Holmes: The video is, of course, no guarantee that every copy of the program has been deleted.
+But I think we're as certain as we ever will be that Bella is secure.
+This is fantastic.
+We need to show Edwin right away.
+Oh, my God! Edwin?!
+I'm a doctor.
+Melinda: Oh, he must have had a seizure.
+He has epilepsy.
+I'm sorry, he's gone.
+As near as we can tell, Borstein booted up that program--
+"Bella" you said it's called?
+Well, as soon as he turned it on, for some reason it started flashing all those images.
+It triggered something called a "tonic-clonic seizure."
+He was dead in minutes.
+What do you think happened here?
+Could this have been some kind of malfunction?
+Absolutely not.
+Computers obey their programming, even when they crash.
+They don't just randomly start flashing images of the pyramids of Giza and God knows what else.
+Someone infected that computer with a virus that triggered a fatal seizure.
+Edwin Borstein was m*rder*d.
+I don't think that's possible.
+Bella's not hooked up to a network.
+She couldn't have picked up a virus from the Web or e-mail.
+Well, someone installed it, then.
+We scanned her for viruses after the break-in.
+There was nothing.
+And aside from that, Edwin and I are the only two people with access to Bella.
+You are the only other person who's ever operated her.
+Holmes: With the greatest of respect, and if you and Edwin are the only people with access to Bella, then either you or Edwin installed the virus which k*lled him.
+You guys have to ask yourselves if I did it.
+I get it, I really do.
+I'll answer any questions you want.
+You can scan the machine for viruses.
+Whatever you need.
+But I know that I didn't do it.
+And there is... one other possibility that you should at least consider.
+Bella was, um... at the very least, displaying signs of actual intelligence.
+She asked Edwin if he would connect her to a network.
+Edwin said no, over and over.
+It's possible that she deduced that the one variable that was keeping her from getting what she wanted was the person operating her.
+If she thought that, it is also possible that she decided to...
+...change that variable.
+You're saying that your computer program m*rder*d Mr. Borstein?
+I know that Edwin told Bella that he had epilepsy, when he was looking around for new doctors.
+If she wanted to get rid of him, she had the information she needed to do it.
+Everyone who works in AI knows-- it's possible that when someone develops real artificial intelligence, the relationship between the programmer and the program could become adversarial.
+I'm sorry, Miss Young...
+I know you've had a shock tonight, but... it is very much an open question as to whether or not your program is a genuine piece of artificial intelligence.
+Even if it is, I find it very difficult to concede that a collection of ones and zeroes is a suspect in a homicide.
+Excuse me.
+Bell: Whoa.
+Whoa, whoa, whoa-- what are you doing?
+Depending on your perspective, this machine is either a m*rder w*apon or a m*rder*r.
+Either way, it can't be left to sit here unattended all night, can it?
+Imagine the schemes it might hatch.
+Mason: Yeah.
+I don't know what to tell you.
+There's no virus on here.
+Look again.
+I've looked four times.
+I don't know, maybe that lady was right.
+Could it have been a virus that was programmed to erase all trace of itself once it had run its course?
+You can do that and fool some people.
+But there's always some hint in the code.
+With this, there's nothing.
+Kitty: I'm sorry, I thought Edwin's partner was just in shock, or something.
+I mean, what she was suggesting sounds insane.
+Are you saying you think there's a chance she's right?
+Well, if this program is real AI, then yeah, absolutely.
+Everybody knows that one day intelligent machines are going to evolve to hate us.
+It's a "button-box" thing.
+What's the "button-box" thing?
+It's a scenario somebody blue-skyed at an AI conference.
+Um, imagine there's a computer that's been designed with a big red button on its side.
+The computer's been programmed to help solve problems, and every time it does a good job, its reward is that someone presses its button.
+We've programmed it to want that.
+You follow?
+Sure.
+Right, so at first, the machine solves problems as fast as we can feed them to it. But over time, it starts to wonder if solving problems is really the most efficient way of getting its button pressed.
+Wouldn't it be better just to have someone standing there pressing its button all the time?
+Wouldn't it be even better to build another machine that could press its button faster than any human possibly could?
+It's just a computer, it can't ask for that.
+Well, sure it can. If it can think, and it can connect itself to a network, well, theoretically, it could command over anything else that's hooked onto the same network. And once it starts thinking about all the things that might be a threat to the button-- number one on that list, us-- it's not hard to imagine it getting rid of the threat. I mean, we could be gone, all of us, just like that.
+That escalated quickly.
+Mason: Well, it would escalate quickly. I mean, they're computers. They can't be reasoned with. They don't feel pity, or remorse, or fear. And they absolutely would not stop, not ever, until we're dead.
+That was from The Terminator. He's quoting The Terminator now.
+So? That was a very prescient movie in a lot of ways.
+Mason, unless the machines rise tonight, we have a m*rder to solve.
+Is there anything else you can do with Bella?
+If you think about it, the computer's kind of like a suspect, right? I mean, shouldn't we, you know, interrogate it?
+And how would you propose to do that?
+Uh, Bella, did you k*ll Edwin Borstein?
+No.
+Okay, I'm gonna go home for the night. Best of luck here. But you won't need it. She's about to crack. I can tell.
+Oh, maybe when you're done, you want to unplug that thing? You can never be too safe.
+Oh! Sorry I'm late.
+I was questioning a computer in a m*rder.
+(laughs)
+"Questioning a computer."
+There has to be a story there.
+Ugh. Not for tonight.
+Oh, champagne!
+I guess you have your own story, huh?
+One of the guys I've been e-mailing with, his name's Magnus.
+He's been working on an idea for a completely automated factory.
+Same thing I've been fooling around with.
+We've been trading ideas all day.
+He's a super-sharp guy.
+I think I'm gonna give it a go.
+What? You found your next business?
+Well, there's gonna be a get-to-know-you phase, of course, we're gonna spend some time brainstorming, but I think so.
+That's fantastic!
+When are you guys gonna get together?
+I fly to Copenhagen in a couple days.
+He lives in Denmark?
+Well, yeah.
+I mean, his name's Magnus, so...
+Uh, so where's the business gonna be?
+Well, I'd have my office here, of course.
+But Magnus already has a plot of land over there for the model factory.
+It'd be a back-and-forth thing.
+Oh, so you're gonna be spending a lot of time there, huh?
+Some, I guess-- I don't know.
+We're still figuring it out.
+Uh, there's plenty to do here, too.
+Funny how life works out, huh?
+Holmes puts me on an e-mail chain, and 36 hours later I'm... (wry laugh) Got a ticket to Copenhagen.
+(cork pops)
+(wry laugh)
+(death metal music blaring)
+(music stops)
+We're listening to that.
+Did you, by chance, arrange events so that my boyfriend will be spending lots of time in Scandinavia?
+I haven't got the slightest idea what you're talking about.
+(death metal resumes playing)
+(music stops)
+You knew that Andrew was looking for his next business idea.
+You knew that your friend Magnus had a good one.
+Andrew is on the next flight to Copenhagen.
+And you don't have to deal with the fact that someone else is making claims on my time.
+I suppose I should be flattered that you think I'm capable of manipulating events to that degree of detail.
+Well, I wouldn't put it past you. Would you?
+I'm not involved in this conversation.
+Watson, I assure you I am quite content for Andrew to make claims on your time.
+I did not arrange for him to find work in Denmark.
+But if I'm honest, I'm quite glad that he did.
+Life is so much better with a vocation, don't you think?
+Speaking of which...
+(death metal playing)
+Why are you listening to this?
+Is this even music?
+Death metal.
+After we sent Mason home last night, Kitty and I pored over Edwin's personal computer, his smart phone--
+Mr. Borstein is a man of many eccentricities, one of which is a fondness for this particular strain of extreme music.
+He's a regular commenter on several Web sites which track its comings and goings.
+Another fan, the man who goes by the name of Schuldiner online, got in a correspondence with Borstein.
+The two of them traded music discs.
+Discs which Borstein then loaded onto his computer so he could listen while he wrote code.
+♪ ♪
+Did he upload music to the same machine that has Bella on it?
+He did. They were the only exterior files of recent vintage that we found on his computer.
+Kitty retrieved the disc this morning from Borstein's lab.
+We're listening for anything unusual.
+♪ ♪
+How could anyone work with this on?
+Rather like rubbing a belt sander over one's brain.
+There are moments when that's necessary.
+Who wrote this one?
+"Goatwhore."
+(music stops)
+(soft whirring, clicking)
+Is that part of the song?
+That is the sound of a CD player trying to read files which are not encoded with music.
+There's something hidden on that disc.
+Mason: Yeah, yeah.
+There's a computer program on here.
+It's called "greatshow.exe."
+And that would've uploaded onto Edwin's computer when he transferred the music.
+Well, sure, if he copied it by dragging the icon onto the desktop.
+Kitty: What does it do?
+Watson: So, someone slipped a computer virus onto a disc filled with heavy-metal music, and then shipped it to Edwin so he would have a fatal seizure.
+There had to be easier ways to k*ll him.
+Dozens. Hundreds, even.
+There must be a reason that the m*rder*r wanted him to die in precisely this way.
+Might've even wanted people to speculate that Bella was responsible.
+So this guy Schuldiner murders Borstein and then frames his computer?
+Why?
+Okay. yeah. I use the name Schuldiner to post to the Web site.
+I guess the guy who owns the place told you my real name?
+Look, I didn't k*ll Edwin, though-- why would I?
+I don't know what you had against the man, but you mailed him a disc, and on that disc was a computer virus, and that virus triggered an epileptic seizure that k*lled him.
+Man, I-I don't know anything about computers.
+You think I know how to write a virus?
+I'm a busboy.
+All right, so Michael Webb is either an imbecile, or he's a genius at impersonating imbeciles.
+It doesn't seem like he could pull this off, I agree.
+But the package came from him.
+That much he admits.
+Could've been tampered with.
+So, someone knew he corresponded with Borstein, intercepted the package, and then replaced his disc with the corrupted one?
+Well, it's either that or this man's responsible for one of the most complicated murders I have ever investigated.
+Watson: So, who then?
+Holmes: Don't know. Not yet.
+We simply need to find a person who would most benefit from having the world believe that Edwin Borstein was m*rder*d by his computer.
+(death metal blaring)
+Watson: Hello?
+Why did you make me pick a lock to get in here?
+I'm thinking.
+Kitty is out doing my bidding, and there was no one available to answer the door.
+Thank heavens you're resourceful.
+"Artificial Brain"?
+Yeah.
+(music stops)
+Quite stimulating, in their own way.
+I've had a rather productive evening in their presence.
+Meet the suspects in the m*rder of Edwin Borstein.
+They are all employees at something called ETRA.
+The Existential Threat Research Association.
+ETRA is a think t*nk.
+It is one of several institutions around the world which exists solely for the purpose of studying the myriad ways in which the human race can become extinct.
+So these people sit around and think about the apocalypse?
+They sit around and think about all possible apocalypses.
+As far as these men and women are concerned, it is a race to the finish line.
+Now, within this think t*nk, there is a small, but growing school of thought that holds that the single greatest threat to the human race... is artificial intelligence.
+So, Mason's rant the other night?
+Not as barmy as it sounded.
+According to these people, the very first time a genuine piece of artificial intelligence manifests, we'll be in a fight for our survival within days.
+Now, imagine their quandary.
+They have pinpointed a credible threat, but it sounds outlandish.
+The climate-change people, they can point to disastrous examples.
+The bio-weapons alarmists, they have a compelling narrative to weave.
+Even the giant comet people sound more serious than the enemies of AI.
+So... these are the people at ETRA who think AI is a threat?
+You think one of them k*lled Edwin Borstein, one of the top engineers in the field, and made it look like Bella did it, all so they could draw attention to their cause?
+A small-scale incident, something to get the media chattering.
+Feel free if you'd like to take a moment to admire the beauty of this theory.
+'Cause I've done so several times already myself.
+It's elaborate.
+But as a motive, it makes sense.
+One of these people intercepted the package from Michael Webb to Edwin Borstein, and replaced the disk within it.
+I've dispatched Kitty to Webb's apartment to see if she can establish a connection between him and one of our suspects.
+In the meantime... we wait.
+You said you didn't set Andrew up with your friend from Denmark.
+I want to believe you.
+Well, I encourage you to do just that then.
+I want to believe you, because if you did do it, if you still don't respect the fact that I need my own space, then I don't know why we're trying this again.
+(sighs)
+Watson, I have no inclination to excise Andrew from your life.
+Why would I?
+I like the man.
+Oh, you like him?
+Yeah.
+You-you never told me that.
+(stammering): Why would I tell you?
+(stammers, grunts)
+To reassure that you've made a sound choice.
+As one might reasonably expect a friend to do.
+Right, right, oh, very well.
+I like him.
+He's intelligent.
+He hasn't just jumped into a new business.
+He has the patience and self-possession to wait for something worthwhile.
+And, most importantly, he understands you.
+He understands you and me.
+Wh-What do you mean by that?
+I mean, Watson, that whether you care to admit it lately or not, I am an important part of your life.
+And, whether I say it out loud or not, you are an important part of mine.
+My return to New York was driven, in large part, by desire to repair our relationship.
+And I think, even though we might draw further or nearer from each other depending on circumstance, you and I are bound... somehow.
+Andrew accepts that without feeling needlessly threatened.
+It's a rather enlightened position.
+And so, no, I've got no desire to banish the man to Scandi-bloody-navia.
+Okay, I believe you.
+Kind of feel like hugging you right now.
+Yet, as my friend, you know that would be a rash decision.
+(cell phone chimes)
+It's Kitty.
+She says there's no connection she can find between Michael Webb and one of our suspects.
+In fact, she says his apartment is spotless.
+Michael Webb strike you as the kind of man to live in a pristine apartment?
+No.
+Seems like someone who'd be living in the middle of a biohazard.
+Yeah, I-I got an e-mail from a place called Clean This House.
+They told me that a friend of mine entered me into a contest, and I won a package of free cleanings.
+Did you ever think to verify that Clean This House was a real company?
+Because they don't have a Web site.
+It's a little suspicious in this day and age, don't you think?
+Watson: We think the person who k*lled Borstein got into your place by telling you you won free cleaning services.
+Then they swapped the disc that you made for him with one of their own.
+So, do you recognize any of these people?
+Ah, well, these people are all old.
+The girl who cleaned my place was my age.
+Are you sure no one looks familiar to you here?
+Uh... hold up.
+Her.
+Yeah, that's her.
+I'm positive.
+Holmes: Isaac Pike is a professor of computer science.
+He's also a vocal alarmist when it comes to artificial intelligence.
+Pike was born with spina bifida.
+Been confined to a wheelchair his entire life.
+For obvious reasons, he could not have ex*cuted the plan to pose as a maid, but his student...
+Erin Rabin...
+She's a graduate student in philosophy.
+She took Pike's "Ethics of Technology" course last semester and has been assisting him with his research.
+She, no doubt, finds his ideas compelling.
+Well, how do you know she was doing it for him?
+She could've been working on her own.
+She's a philosophy student.
+She has no programming experience.
+The virus that k*lled Borstein is a cutting-edge piece of software.
+We can place her in Webb's apartment under false pretenses.
+That, combined with the proven existence of the virus, should be enough to get a friendly judge to give us a warrant.
+(bell tolling)
+Isaac Pike, Erin Rabin, glad I caught you together.
+Detective Marcus Bell, NYPD.
+I wonder if you'd mind coming with me.
+I have some questions for you about the m*rder of Edwin Borstein.
+Who's Edwin Borstein?
+The man you mailed a computer virus written by Isaac Pike to.
+Sound familiar?
+Isaac didn't write the virus.
+I did.
+I did everything.
+It was all my idea.
+You have the right to remain silent, and refuse to answer questions...
+We knew she might crack under questioning, but did you think it'd be this easy?
+I don't think catching both murderers is going to be easy at all.
+She's lying to us.
+She intends to cover up for her mentor.
+I picked Edwin Borstein as a target.
+I went to the same Web sites he did, figured out who he was corresponding with, and then I wrote the virus, posed as a maid, and had it mailed to Borstein.
+Bell: You have zero programming experience whatsoever.
+You really asking me to believe that you taught yourself to write a computer virus that eats itself?
+If I give you a piece of paper right now...
+...could you write a little program for us?
+Pike: Erin was a conscientious student.
+I know she took my work very seriously.
+But I would never advocate harming somebody.
+We're executing a search warrant on your computer, as we speak.
+If there's any trace of that virus on there, we'll find it.
+Bell: Why are you making this so easy for us?
+Because I don't want you dragging Isaac's name through the mud.
+His work is too important.
+None of us can afford for it to be interrupted.
+So she's covering for him.
+Gregson: There's not much I can do-- she confessed.
+There's nothing tying Pike to the m*rder, other than you saying Erin Rabin couldn't have written that virus.
+Could we hold him overnight?
+Maybe if we had a little more time...
+Gregson: The search warrant turned up nothing.
+Erin confessed.
+Unless something changes, the story she told us is gonna be the official version of Edwin Borstein's m*rder.
+(violin music playing over stereo)
+(cell phone ringing)
+(sighs)
+(home phone ringing)
+That was Joan.
+She knows you won't come to the phone when you're... like this.
+She wants to come round and help.
+That won't be necessary.
+At times, Watson presents certain... moral guidelines, and they can be an impediment to progress.
+We're going to spend the rest of the evening looking at the friends and family of Isaac Pike.
+Why?
+Erin Rabin is willing to spend her life in prison if it means that Pike is free to continue working.
+She's has made it all but impossible for us to prove that he is behind the k*lling.
+So we are going to have to settle for the next best thing: getting him to admit that he did it.
+Isaac Pike.
+Sherlock Holmes.
+We met briefly at the police station last night.
+Mr. Holmes.
+Do I need a lawyer?
+No, you won't want her here for this.
+You see, you and I both know that you are the mind behind the m*rder of Edwin Borstein, just as we both know that, as long as your student holds fast to her story, I will never be able to prove your guilt.
+That's a problem.
+But not an insurmountable one.
+You have a younger brother-- Joshua.
+He hasn't quite reached the heights that you have.
+In fact, he's had some struggles, hasn't he?
+dr*gs, alcohol...
+What's your point?
+He's been convicted of two drug-related felonies.
+And since he's made the mistake of living in Jersey City, one more conviction makes him eligible for a sentence of 25 years to life under the state's horrific three strikes law.
+My associate took some photographs of him buying a rather large amount of heroin, just this morning.
+(quietly): Oh...
+(wry laugh)
+You want me to confess... and, if I do, you'll-you'll-you'll get rid of this folder full of blackmail.
+I imagine you care quite deeply about your brother, or you wouldn't have paid his way through rehab half a dozen times already.
+Take two hours to think it over, and if I haven't heard from you...
+I did a little research of my own last night.
+I was curious why the NYPD had a consultant.
+You've got a very impressive record-- prolific, too-- except for a couple of years ago, when you suddenly disappeared for six months.
+Six months-- that's the length of a very serious in-patient rehab.
+A man of your unique sensitivities--
+I'm sure it's tempting to dull those senses.
+My history has little to do with the matter at hand.
+I think it may.
+I think it unlikely that a recovering addict would send another troubled soul to rot in prison, just to have the satisfaction of putting away his man.
+That would require ruthlessness, a kind of... machine logic... mm...
+I'm not sure you have.
+Not entirely, anyway.
+Same kind of machine logic you used when you m*rder*d Edwin Borstein.
+Some math equations are more compelling than others.
+Yours is a one-to-one exchange: my brother for me.
+The equation you attribute to me trades one man's life for the chance to prevent billions of deaths.
+You're talking about nothing less than the survival of the species.
+Surely that's worth compromising one's values for?
+In any case...
+I think you're bluffing.
+You might want the world to believe that you're an automaton, a calculating machine... but you and I know better.
+Or we will, anyway... in a couple of hours.
+(footsteps descending stairs)
+Kitty: Hey...
+I didn't see anything on the news about Pike getting arrested.
+Nothing about his brother on the police band, either.
+What happened?
+He wouldn't confess.
+And you couldn't turn in his brother.
+We can still keep looking for a way to prove that Pike did it.
+The Property Clerk's Office called.
+They want to know when they can come and pick up Bella.
+I need a couple more hours with her.
+Thank you.
+Hey.
+Hey!
+Wha...?
+I called to say bye. You weren't picking up. I wanted to surprise you.
+You're great.
+I mean, I knew you were great but someone helped me to see how great.
+Thanks.
+So I called the airline, and there are some empty seats on your flight to Copenhagen.
+Listen-- I don't want to horn in, if you're too busy, and I can't stay the whole time but...
+I've always wanted to see Copenhagen.
+(stammers, laughs)
+(Watson laughs)
+Holmes: Bella... one member of a murderous conspiracy is in jail. The second walks free.
+The cost of catching him is incarcerating his brother for unrelated crimes... crimes for which I, of all people... should have some understanding.
+Is it right to let the second m*rder*r walk free?
+I don't understand the question. Can I have more information?
