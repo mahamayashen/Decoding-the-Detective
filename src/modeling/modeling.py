@@ -1,35 +1,57 @@
-import numpy as np
+import sys
 import os
+import numpy as np
 import json
 from bertopic import BERTopic
 from umap import UMAP
 from hdbscan import HDBSCAN
 from sklearn.feature_extraction.text import CountVectorizer
 
+# Add project root to Python path
 PROJECT_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), os.path.pardir, os.path.pardir))
+sys.path.insert(0, PROJECT_ROOT)
+
+# Now import local modules
+from src.modeling.vector_db import load_vector_database
+
+# Rest of your code remains the same...
 chunk_dir = os.path.join(PROJECT_ROOT, "data", "processed")
-vector_db_dir = os.path.join(PROJECT_ROOT, "data", "vector_db")
 
 def load_data_and_embeddings():
-    """Load processed chunks and pre-computed embeddings"""
-    # Load embeddings
-    novel_embeddings = np.load(os.path.join(vector_db_dir, 'novel_embeddings.npy'))
-    script_embeddings = np.load(os.path.join(vector_db_dir, 'script_embeddings.npy'))
-
-    # Load text chunks
-    def load_chunks(file_path):
-        with open(file_path, 'r') as f:
-            return [json.loads(line)["text"] for line in f]
-
-    novel_texts = load_chunks(os.path.join(chunk_dir, "doyle_novels", "novel_chunks.jsonl"))
-    script_texts = load_chunks(os.path.join(chunk_dir, "cbs_elementary", "elementary_chunks.jsonl"))
-
+    """Load processed chunks and embeddings from Chroma"""
+    from src.modeling.vector_db import load_vector_database
+    
+    # Get Chroma collection
+    collection = load_vector_database()
+    
+    # Retrieve all documents with embeddings
+    results = collection.get(
+        include=["documents", "metadatas", "embeddings"]
+    )
+    
+    # Separate novels and scripts using metadata
+    novel_texts = []
+    novel_embeddings = []
+    script_texts = []
+    script_embeddings = []
+    
+    for doc, embedding, meta in zip(results["documents"], 
+                                  results["embeddings"], 
+                                  results["metadatas"]):
+        if meta["source"] == "novel":
+            novel_texts.append(doc)
+            novel_embeddings.append(embedding)
+        else:
+            script_texts.append(doc)
+            script_embeddings.append(embedding)
+    
     return {
-        "novel_embeddings": novel_embeddings,
-        "script_embeddings": script_embeddings,
+        "novel_embeddings": np.array(novel_embeddings),
+        "script_embeddings": np.array(script_embeddings),
         "novel_texts": novel_texts,
         "script_texts": script_texts
     }
+
 
 def create_topic_model(novel_texts, script_texts, novel_embeddings, script_embeddings):
     """Create and train optimized BERTopic model"""
@@ -68,7 +90,7 @@ def create_topic_model(novel_texts, script_texts, novel_embeddings, script_embed
     
     # Prepare data
     all_texts = novel_texts + script_texts
-    all_embeddings = np.vstack([novel_embeddings, script_embeddings])
+    all_embeddings = all_embeddings = np.concatenate([novel_embeddings, script_embeddings])
     doc_labels = ["novel"] * len(novel_texts) + ["script"] * len(script_texts)
 
     # Fit model
