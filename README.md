@@ -4,7 +4,7 @@
 ![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-blue.svg)
 [![NLP Pipeline](https://img.shields.io/badge/NLP%20Pipeline-spaCy%7CBERTopic%7CPhi--3-blueviolet)](https://github.com/mahamayashen/Decoding-the-Detective)
 
-**Quantifying thematic alignment between Arthur Conan Doyle's original Sherlock Holmes novels and modern TV adaptations using cutting-edge NLP techniques**
+**Quantifying thematic alignment between Arthur Conan Doyle's original Sherlock Holmes novels and modern TV adaptation Elementary(CBS) using NLP techniques**
 
 
 ## 📖 Project Overview
