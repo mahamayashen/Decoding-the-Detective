@@ -34,7 +34,7 @@ This repository contains a comprehensive NLP pipeline to analyze:
   - Phi-3-mini-4k-instruct: 2.4GB (Q4_K_M quantized)
   - spaCy en_core_web_lg: 500MB
 
-## 🛠️ Installation
+## 🛠️ Installation 
 
 ### 1. Clone Repository
 ```bash
@@ -68,3 +68,14 @@ local_dir='models/phi3'
 python -m spacy download en_core_web_lg
 ```
 
+### 5. Docker Setup
+```bash
+# Navigate to the project root directory
+cd Decoding-the-Detective
+
+# Build the Docker image
+docker build -t decoding-detective .
+
+# Run the container
+docker run -p 8501:8501 decoding-detective
+```
