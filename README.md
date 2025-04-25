@@ -6,7 +6,6 @@
 
 **Quantifying thematic alignment between Arthur Conan Doyle's original Sherlock Holmes novels and modern TV adaptations using cutting-edge NLP techniques**
 
-![Project Workflow Diagram](https://via.placeholder.com/800x400.png?text=NLP+Analysis+Workflow) <!-- Add actual diagram later -->
 
 ## 📖 Project Overview
 This repository contains a comprehensive NLP pipeline to analyze:
