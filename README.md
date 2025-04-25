@@ -78,3 +78,5 @@ docker build -t decoding-detective .
 # Run the container
 docker run -p 8501:8501 decoding-detective
 ```
+### 6. Final Report
+Here is the [final report](https://github.com/mahamayashen/Decoding-the-Detective/blob/main/CS6120___Final_Project.pdf), the one on the gradescope is not correct.
